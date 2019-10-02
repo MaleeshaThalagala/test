@@ -1,0 +1,7 @@
+NAME=1
+ADRESS=2
+INT=3
+SPACE=4
+NEWLINE=5
+' '=4
+'\n'=5
